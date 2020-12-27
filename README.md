@@ -31,9 +31,9 @@ How are you?
 Hello
 
 Print Stack in order.
-Hello
-How are you?
-I am David.
+Hello \n
+How are you?\n
+I am David.\n
 Ending the process.......
 
 
