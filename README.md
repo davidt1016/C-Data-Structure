@@ -26,14 +26,21 @@ I am David.
 ###Output:
 Size of the Stack is: 3
 Print Stack in reverse order.
+
 I am David.
+
 How are you?
+
 Hello
 
 Print Stack in order.
-Hello \n
-How are you?\n
-I am David.\n
+
+Hello
+
+How are you?
+
+I am David.
+
 Ending the process.......
 
 
